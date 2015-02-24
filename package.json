@@ -1,0 +1,9 @@
+{
+  "name": "buffer-libc",
+  "version": "0.0.1",
+  "repo": "Gioyik/buffer-libc",
+  "description": "Buffer C lib ",
+  "keywords": ["buffer", "c", "lib"],
+  "license": "MIT",
+  "src": ["src/buffer.c", "src/buffer.h"]
+}
